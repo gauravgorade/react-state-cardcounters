@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/gauravgorade/react-state-cardcounters/blob/main/SS.png?raw=true)
+
 # React Dual Counter
 
 This React application features dual counter functionality, allowing you to explore two different state management approaches:
