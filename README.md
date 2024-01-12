@@ -16,5 +16,4 @@ Feel free to explore and compare the two implementations to understand the diffe
 - React
 - Redux (for the Redux Counter)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
